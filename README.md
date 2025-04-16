@@ -12,8 +12,3 @@ A backend server built with **Express.js** and **MongoDB**, supporting user auth
 - **Static File Hosting** (`uploads` directory)
 - **Global Error Handling** with custom error responses
 - **Environment Variables** via `dotenv`
-
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone <your-repo-url>
