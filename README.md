@@ -27,6 +27,8 @@ This is a RESTful API built using **Express.js** and **MongoDB** for managing co
 - **Auth**: JSON Web Tokens (JWT)
 - **Others**: dotenv, CORS
 
+
+
 ## 📦 Installation
 
 Create a .env file and add:
