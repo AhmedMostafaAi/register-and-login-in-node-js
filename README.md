@@ -32,11 +32,11 @@ This is a RESTful API built using **Express.js** and **MongoDB** for managing co
 ## 📦 Installation
 
 Create a .env file and add:
-MONGO_URL=your-mongo-uri
-PORT=5001
+- MONGO_URL=your-mongo-uri
+- PORT=5001
 
 ```bash
 npm install
-npm run dev
+npm run start
 
 
